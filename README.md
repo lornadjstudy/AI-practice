@@ -1,5 +1,3 @@
-Go back to the AI-practice main page and click the green Add a README button.
-Paste this text (change it to your own words if you like):
 # AI Practice
 
 My hands-on AI learning journey, one small project at a time.
@@ -18,4 +16,4 @@ What I learned:
 What broke:
 - Used the wrong variable name inside my function (fixed it)
 - Colab could not save, so I copied my code to GitHub by hand
-Click Commit changes..., then Commit changes.
+Click Commit changes..., then Commit changes again.
